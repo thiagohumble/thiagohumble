@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/thiagohumble" target="blank"><img src="https://img.shields.io/twitter/follow/thiagohumble?logo=twitter&style=for-the-badge" alt="thiagohumble" /></a> </p>
 
-- 🔭 I’m currently working on [Reactjs Humble Trips](https://humbletrips.com.br/)
+- 🔭 I’m currently working on [Reactjs Humble Trips](https://www.thumble.com.br/humbletrips) and [Angular 18+ Portfólio](https://www.thumble.com.br/portfolio)
 
-- 🌱 I’m currently learning **Angular, Vue, Nextjs, Go, Python**
+- 🌱 I’m currently learning **Angular, Vue, Nextjs, React, Flutter, Go, Python**
 
 - 📫 How to reach me **thg.humble@gmail.com**
 
